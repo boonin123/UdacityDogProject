@@ -20,5 +20,5 @@ The project requires **Python 2.7** and the following Python libraries:
 
 #### Model Results: 
 The main model used for the project was based on InceptionV3 bottleneck features using transfer learning. The performance was:
-- Training Accuracy: 91.66%
-- Test Accuracy: 79.67%
+- Training Accuracy: 99.49%
+- Test Accuracy: 78.11%
