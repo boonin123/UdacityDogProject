@@ -27,6 +27,8 @@ The final model used for the project was based on InceptionV3 bottleneck feature
 
 After that, I built my final algorithm using the above requirements and the InceptionV3 model. I found that it worked well on all 6 of the images I fed it to test! It correctly identified humans and dogs separately, was accurate in the dog breed classification, and did not get fooled by the final two images of cats.
 
+The link to my Medium Blog Post can be found [here](https://medium.com/@noahboonin/udacity-data-scientist-nanodegree-capstone-dog-breed-classifier-94befe019346)
+
 #### Acknowledgements
 Thank you to Udacity for providing all the materials and the starter code for this project. Below are the data and code citations relevant to this project.
 - The Dog Images data can be downloaded [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
